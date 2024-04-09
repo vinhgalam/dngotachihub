@@ -18,7 +18,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "DNG OTACHI HUB V1.0",
-    SubTitle = "Created by DNG OTACHI",
+    SubTitle = "- Created by DNG OTACHI",
     TabWidth = 160,
     Size = UDim2.fromOffset(515, 350),
     Acrylic = false,
@@ -2370,7 +2370,7 @@ ImageButton.Parent = ScreenGui
 ImageButton.BackgroundColor3 = Color3.fromRGB(124, 124, 124)
 ImageButton.Position = UDim2.new(0.10615778, 0, 0.16217947, 0)
 ImageButton.Size = UDim2.new(0.0627121851, 0, 0.107579626, 0)
-ImageButton.Image = "rbxassetid://16593051889"
+ImageButton.Image = "rbxassetid://17076588056"
 
 UICorner.CornerRadius = UDim.new(0, 15)
 UICorner.Parent = ImageButton
