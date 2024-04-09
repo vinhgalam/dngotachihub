@@ -17,7 +17,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "DNG OTACHI HUB V1.0",
+    Title = "DNG OTACHI HUB V1.1",
     SubTitle = "- Created by DNG OTACHI",
     TabWidth = 160,
     Size = UDim2.fromOffset(515, 350),
@@ -5453,8 +5453,8 @@ Tabs.Misc:AddButton({
 })
 
 Fluent:Notify({
-    Title = "Mbm Hub",
-    Content = "@"..game.Players.LocalPlayer.Name.." wait Script load..",
+    Title = "Hello Bạn Đã Đến Với Menu dngotachihub",
+    Content = "@"..game.Players.LocalPlayer.Name.." Đang Chạy Script...",
     Duration = 8
 })
 --[[Hop
