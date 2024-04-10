@@ -26,7 +26,7 @@ local Window = Fluent:CreateWindow({
     MinimizeKey = Enum.KeyCode.End
 })
 local Tabs = {
-    Main = Window:AddTab({ Title = "Chức Năng Hay Sử Dụng ( Main )" }),
+    Main = Window:AddTab({ Title = "Chức Năng Hay Dùng ( Main )" }),
     Stats = Window:AddTab({ Title = "lấy Item ( Get Items  )" }),
     Info = Window:AddTab({ Title = "Trạng thái (Status)" }),
     Seaev = Window:AddTab({ Title = "Sự Kiện Mới ( Sea Event )" }),
