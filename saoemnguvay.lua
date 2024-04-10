@@ -26,19 +26,19 @@ local Window = Fluent:CreateWindow({
     MinimizeKey = Enum.KeyCode.End
 })
 local Tabs = {
-    Main = Window:AddTab({ Title = "Main" }),
-    Stats = Window:AddTab({ Title = "Sub" }),
-    Info = Window:AddTab({ Title = "Status" }),
-    Seaev = Window:AddTab({ Title = "Sea Event" }),
-    Player = Window:AddTab({ Title = "Player" }),
-    Teleport = Window:AddTab({ Title = "Teleport" }),
-    Fruit = Window:AddTab({ Title = "Blox Fruits" }),
+    Main = Window:AddTab({ Title = "Chức Năng Hay Sử Dụng ( Main )" }),
+    Stats = Window:AddTab({ Title = "lấy Item ( Get Items  )" }),
+    Info = Window:AddTab({ Title = "Trạng thái (Status)" }),
+    Seaev = Window:AddTab({ Title = "Sự Kiện Mới ( Sea Event )" }),
+    Player = Window:AddTab({ Title = "Người Chơi ( Player )" }),
+    Teleport = Window:AddTab({ Title = "Dịch chuyển tức thời" ( Teleport ) }),
+    Fruit = Window:AddTab({ Title = " Trái Cây Blox( "Blox Fruits" }),
     Raid = Window:AddTab({ Title = "Raids" }),
-    Race = Window:AddTab({ Title = "Up Tộc V4 ( Trial )" }),
-    Shop = Window:AddTab({ Title = "Shop" }),
+    Race = Window:AddTab({ Title = "Up Tộc V4 ( Race Trial )" }),
+    Shop = Window:AddTab({ Title = "Cửa hàng ( Shop )" }),
     Misc = Window:AddTab({ Title = "Misc" }),
-    Hop = Window:AddTab({ Title = "Server" }),
-    Setting = Window:AddTab({ Title = "Settings" }),
+    Hop = Window:AddTab({ Title = "Chuyển Đổi Sever (Server)" }),
+    Setting = Window:AddTab({ Title = "Cài Đặt ( Setting )" }),
     Fluent = Window:AddTab({ Title = "Config" }),
 }
 local Options = Fluent.Options
