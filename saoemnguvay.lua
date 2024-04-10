@@ -34,7 +34,7 @@ local Tabs = {
     Teleport = Window:AddTab({ Title = "Teleport" }),
     Fruit = Window:AddTab({ Title = "Blox Fruits" }),
     Raid = Window:AddTab({ Title = "Raids" }),
-    Race = Window:AddTab({ Title = "Race Trial" }),
+    Race = Window:AddTab({ Title = "Up Tộc V4 ( Trial )" }),
     Shop = Window:AddTab({ Title = "Shop" }),
     Misc = Window:AddTab({ Title = "Misc" }),
     Hop = Window:AddTab({ Title = "Server" }),
