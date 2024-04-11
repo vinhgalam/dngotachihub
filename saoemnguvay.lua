@@ -17,7 +17,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
-    Title = "DNG OTACHI HUB V1.1",
+    Title = "DNG OTACHI HUB V1.2",
     SubTitle = "- Created by DNG OTACHI",
     TabWidth = 160,
     Size = UDim2.fromOffset(515, 350),
@@ -2704,6 +2704,7 @@ end)
     UseCode("StrawHatMaine")
     UseCode("Sub2CaptainMaui")
     UseCode("TheGreatAce")
+    UseCode("ADMIN_TROLL")				
     Tabs.Main:AddButton({
         Title = "remove texture",
         Description = "xóa hiệu ứng (giảm lag - reduce lag)",
