@@ -2704,7 +2704,12 @@ end)
     UseCode("StrawHatMaine")
     UseCode("Sub2CaptainMaui")
     UseCode("TheGreatAce")
-    UseCode("ADMIN_TROLL")				
+    UseCode("ADMIN_TROLL")
+    UseCode("24NOADMIN")
+    UseCode("CHANDLER")	
+    UseCode("Bignews")	
+    UseCode("Fudd10")
+    UseCode("fudd10_v2")				
     Tabs.Main:AddButton({
         Title = "remove texture",
         Description = "xóa hiệu ứng (giảm lag - reduce lag)",
