@@ -30,7 +30,7 @@ local Tabs = {
     Stats = Window:AddTab({ Title = "lấy Item ( Get Items  )" }),
     Info = Window:AddTab({ Title = "Trạng thái (Status)" }),
     Seaev = Window:AddTab({ Title = "Sự Kiện Mới ( Sea Event )" }),
-    Player = Window:AddTab({ Title = "Người Chơi ( Player )" }),
+    Player = Window:AddTab({ Title = "Người Chơi - Chỉ Số ( Player - Index Score )" }),
     Teleport = Window:AddTab({ Title = "Dịch chuyển tức thời ( Teleport )" }),
     Fruit = Window:AddTab({ Title = "Trái Cây ( Blox Fruits )" }),
     Raid = Window:AddTab({ Title = "Raids" }),
