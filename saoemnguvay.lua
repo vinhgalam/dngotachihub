@@ -18,7 +18,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "DNG OTACHI HUB V1.2",
-    SubTitle = "- Created by DNG OTACHI",
+    SubTitle = "- Created by DNG OTACHI ( Update 30/4 )",
     TabWidth = 160,
     Size = UDim2.fromOffset(515, 350),
     Acrylic = false,
